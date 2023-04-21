@@ -1,0 +1,20 @@
+{
+  "name": "nayan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "nayanraval",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20",
+    "request-ip": "^3.3.0",
+    "validator": "^13.7.0"
+  }
+}
